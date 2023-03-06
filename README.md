@@ -5,9 +5,13 @@ The repository include necessary files for running the RL_headway_dynamics proje
 
 ## Required packages
 torch
+
 gym 
+
 stable_baselines3
+
 wandb
+
 
 Please register the env file as a self-defined env in gym to utilize the code if only using the .py files for executing before running the runner.py
 
